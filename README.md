@@ -1,4 +1,4 @@
-# MLP_Data_Classification
+# MLP Data Classification
 A data classification using MLP. 
 <br>This is course assignment of USC CSCI561 - Foundations of Artificial Intelligence. Test environment is supported by Workbench. 
 
